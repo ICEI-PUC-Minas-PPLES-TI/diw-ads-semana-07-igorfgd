@@ -12,15 +12,15 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Igor ferreira
+- Matricula: 890654
+- Proposta de projeto escolhida: 
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+<![Captura de tela da versão CSS Puro](/public/imagens/puro.png)>
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+<![Captura de tela da versão bootstrap](/public/imagens/bootstrap.png)>
